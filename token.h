@@ -1,4 +1,4 @@
 struct Token {
     char* whr;
-    int m;
+    int m; // egdf
 };
